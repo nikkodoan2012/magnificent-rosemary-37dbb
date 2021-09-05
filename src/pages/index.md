@@ -5,9 +5,8 @@ sections:
     type: section_hero
     title: Đoàn Nhật Duy
     image: images/5.jpg
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: |
+      Cảm ơn quý vị đã lựa chọn dịch vụ của chúng tôi
     actions:
       - label: Get Started
         url: /docs
