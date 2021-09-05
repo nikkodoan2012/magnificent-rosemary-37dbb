@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Nikko Post
 subtitle: lorem-ipsum
 date: '2021-09-05'
 thumb_image_alt: lorem-ipsum
