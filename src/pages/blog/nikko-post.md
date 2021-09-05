@@ -1,6 +1,6 @@
 ---
 title: Nikko Post
-subtitle: lorem-ipsum
+subtitle: Đây là bài viết demo
 date: '2021-09-05'
 thumb_image_alt: lorem-ipsum
 excerpt: lorem-ipsum
